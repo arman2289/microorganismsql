@@ -6,6 +6,13 @@
 ## Project Overview
 
 I designed and implemented a comprehensive relational database system to catalog, classify, and analyze microorganisms including bacteria, fungi, protozoa, cyanobacteria, and plankton. This database serves as a scientific information repository that demonstrates the complex relationships between microorganisms, their habitats, applications, and ecological roles.
+## Statement of Originality
+
+This Enhanced Microorganisms Database is my original work. While I referenced scientific literature for biological accuracy and SQL documentation for syntax guidance, the database architecture, relationship design, and implementation are entirely my own. This project demonstrates my understanding of both relational database principles and microbiology concepts.
+
+## Personal Context
+
+My fascination with microorganisms began in high school when I first viewed pond water under a microscope. Living in a coastal region, I've witnessed harmful algal blooms firsthand, which sparked my interest in cyanobacteria and plankton. The COVID-19 pandemic further deepened my interest in microbiology. This project bridges my dual passions for computer science and biology, allowing me to create a comprehensive system that catalogs the diversity and importance of microorganisms in both ecological systems and human applications.
 
 ## Database Design Philosophy
 
