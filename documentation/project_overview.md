@@ -1,7 +1,7 @@
 # Enhanced Microorganisms Database Project
 
-**Developer:** [Your Name]  
-**Date:** March 2025
+**Developer:** arman  
+**Date:** december 2024
 
 ## Project Overview
 
