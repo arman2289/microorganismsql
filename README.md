@@ -1,4 +1,6 @@
 # Comprehensive Microorganisms Database
+**Author**: Arman Shaikh  
+**passport ID**: Y5625646  
 
 A sophisticated relational database system designed to catalog and analyze diverse microorganisms including bacteria, fungi, protozoa, cyanobacteria, and plankton.
 
